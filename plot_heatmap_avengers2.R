@@ -18,7 +18,7 @@ ggplot(melted, aes(y = inc, x = variable, fill = value)) +
   labs(x = "No. of Independent Emergences",
        y = "Offspring Imbalance (%)",
        fill = "Power") +
-  scale_fill_gradient(low="yellow", high="red") +
+  scale_fill_gradient2(midpoint = 50, low="white", mid = "white", high="red") +
   theme_bw()
 
 ggsave("power_analysis_heatmap.png", dpi=300, width = 5, height = 4)
