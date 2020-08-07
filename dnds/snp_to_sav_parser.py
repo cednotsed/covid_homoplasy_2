@@ -4,7 +4,7 @@ from Bio import AlignIO, SeqIO, Seq
 from pathlib import Path
 cwd = Path.cwd()
 
-df = pd.read_csv(cwd / '../gisaid_cov2020_sequences.30.07.2020.QC.human.nextstrain_filter.QC.NSmask.HPfinder.noambig.BASECOUNTS_edited.csv')
+df = pd.read_csv(cwd / '../gisaid_cov2020_sequences.30.07.2020.QC.human.nextstrain_filter.QC.deMaiomask.HPfinder.noambig.BASECOUNTS.csv')
 df = df.loc[:, df.any(0)]
 df = df.rename({'Unnamed: 0': 'Ref'}, axis=1)
 

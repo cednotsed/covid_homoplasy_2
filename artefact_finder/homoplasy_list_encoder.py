@@ -5,7 +5,7 @@ from pathlib import Path
 from sklearn.preprocessing import OneHotEncoder
 cwd = Path.cwd()
 
-df = pd.read_csv(cwd / '../SNP_homoplasy_counts_table.Nexstrain_mask.20.06.2020.csv', sep='\t')
+df = pd.read_csv(cwd / '../SNP_homoplasy_counts_table.deMaio_mask.20.06.2020.csv', sep='\t')
 ref = pd.Series(np.array(SeqIO.read(cwd / '../wuhan-hu-1.fasta', 'fasta').seq))
 df['ref'] = ref
 

@@ -1,6 +1,6 @@
 rm(list = ls())
 setwd("~/git_repos/covid_homoplasy_2")
-df <- read.csv("gisaid_cov2020_sequences.30.07.2020.QC.human.nextstrain_filter.QC.NSmask.HPfinder.noambig.BASECOUNTS_edited.csv", 
+df <- read.csv("gisaid_cov2020_sequences.30.07.2020.QC.human.nextstrain_filter.QC.deMaiomask.HPfinder.noambig.BASECOUNTS.csv", 
                stringsAsFactors = F,
                check.names = F)
 colnames(df)[1] <- "ref"
@@ -48,7 +48,7 @@ plt1 <- ggplot(plot_df, aes(x = L1, y = value, fill = L1)) +
 
 ###########################################################################
 # Homoplasy positions
-meta <- read.csv("filtered-homoplasic-sites-table_alt2_vs_alt1_0.2.csv")
+meta <- read.csv("Demaio_filtered-homoplasic-sites-table_alt2_vs_alt1_0.2.csv")
 meta <- meta$bp
 
 df2 <- df[meta, ]

@@ -257,7 +257,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,631,C,L,122,L,3,S,orf1a
 1,C,632,T,L,123,F,1,NS,orf1a
 1,T,634,C,L,123,L,3,S,orf1a
-30,C,635,T,R,124,C,1,NS,orf1a
 1,A,642,G,N,126,S,2,NS,orf1a
 14,C,643,T,N,126,N,3,S,orf1a
 1,G,645,A,G,127,D,2,NS,orf1a
@@ -411,7 +410,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,888,T,A,208,V,2,NS,orf1a
 2,T,889,C,A,208,A,3,S,orf1a
 1,T,892,C,G,209,G,3,S,orf1a
-59,A,895,G,K,210,K,3,S,orf1a
+58,A,895,G,K,210,K,3,S,orf1a
 3,C,897,T,A,211,V,2,NS,orf1a
 5,T,898,C,A,211,A,3,S,orf1a
 14,C,900,T,S,212,L,2,NS,orf1a
@@ -500,7 +499,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,1045,G,A,260,A,3,S,orf1a
 1,G,1048,A,K,261,K,3,S,orf1a
 2,A,1056,C,D,264,A,2,NS,orf1a
-9257,C,1059,T,T,265,I,2,NS,orf1a
+9260,C,1059,T,T,265,I,2,NS,orf1a
 3,C,1060,A,T,265,T,3,S,orf1a
 40,C,1060,T,T,265,T,3,S,orf1a
 17,C,1063,T,F,266,F,3,S,orf1a
@@ -607,7 +606,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 9,C,1213,T,C,316,C,3,S,orf1a
 1,C,1214,T,L,317,F,1,NS,orf1a
 1,T,1215,C,L,317,P,2,NS,orf1a
-56,C,1218,T,S,318,L,2,NS,orf1a
+55,C,1218,T,S,318,L,2,NS,orf1a
 8,C,1221,T,T,319,I,2,NS,orf1a
 5,C,1223,T,L,320,F,1,NS,orf1a
 2,C,1225,T,L,320,L,3,S,orf1a
@@ -722,7 +721,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,1422,G,E,386,G,2,NS,orf1a
 1,A,1423,C,E,386,D,3,NS,orf1a
 20,C,1426,T,Y,387,Y,3,S,orf1a
-37,C,1427,T,H,388,Y,1,NS,orf1a
+38,C,1427,T,H,388,Y,1,NS,orf1a
 4,A,1430,G,N,389,D,1,NS,orf1a
 1,A,1435,G,E,390,E,3,S,orf1a
 84,C,1437,T,S,391,F,2,NS,orf1a
@@ -779,7 +778,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,C,1513,T,C,416,C,3,S,orf1a
 1,C,1514,A,H,417,N,1,NS,orf1a
 29,C,1514,T,H,417,Y,1,NS,orf1a
-193,A,1515,G,H,417,R,2,NS,orf1a
+192,A,1515,G,H,417,R,2,NS,orf1a
 1,T,1516,C,H,417,H,3,S,orf1a
 4,C,1519,T,N,418,N,3,S,orf1a
 1,A,1520,G,K,419,E,1,NS,orf1a
@@ -1003,7 +1002,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,1888,C,A,541,A,3,S,orf1a
 1,C,1889,T,R,542,C,1,NS,orf1a
 3,G,1890,T,R,542,L,2,NS,orf1a
-1,G,1895,T,V,544,L,1,NS,orf1a
 1,T,1896,C,V,544,A,2,NS,orf1a
 1,A,1897,G,V,544,V,3,S,orf1a
 2,A,1900,G,R,545,R,3,S,orf1a
@@ -1094,7 +1092,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,T,2029,C,S,588,S,3,S,orf1a
 1,A,2031,T,D,589,V,2,NS,orf1a
 1,T,2032,G,D,589,E,3,NS,orf1a
-11,G,2035,T,L,590,F,3,NS,orf1a
+12,G,2035,T,L,590,F,3,NS,orf1a
 1,G,2036,A,A,591,T,1,NS,orf1a
 51,G,2036,T,A,591,S,1,NS,orf1a
 12,C,2037,T,A,591,V,2,NS,orf1a
@@ -1128,8 +1126,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,C,2084,T,Q,607,*,1,NS,orf1a
 2,G,2086,A,Q,607,Q,3,S,orf1a
 6,G,2086,T,Q,607,H,3,NS,orf1a
-42,C,2091,T,T,609,I,2,NS,orf1a
-15,C,2094,T,S,610,L,2,NS,orf1a
 3,G,2095,A,S,610,S,3,S,orf1a
 1,G,2095,T,S,610,S,3,S,orf1a
 5,G,2100,T,W,612,L,2,NS,orf1a
@@ -1192,8 +1188,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,2194,G,R,643,R,3,S,orf1a
 11,A,2196,C,D,644,A,2,NS,orf1a
 3,C,2197,T,D,644,D,3,S,orf1a
-9,G,2198,A,G,645,S,1,NS,orf1a
-3,G,2198,T,G,645,C,1,NS,orf1a
 1,T,2200,C,G,645,G,3,S,orf1a
 1,T,2201,A,W,646,R,1,NS,orf1a
 1,G,2202,T,W,646,L,2,NS,orf1a
@@ -1436,7 +1430,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,G,2600,A,V,779,I,1,NS,orf1a
 1,T,2602,A,V,779,V,3,S,orf1a
 2,T,2602,C,V,779,V,3,S,orf1a
-3,G,2604,T,G,780,V,2,NS,orf1a
 2,T,2605,C,G,780,G,3,S,orf1a
 6,C,2607,T,T,781,I,2,NS,orf1a
 1,C,2609,T,P,782,S,1,NS,orf1a
@@ -1616,7 +1609,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,C,2939,A,P,892,T,1,NS,orf1a
 25,C,2939,T,P,892,S,1,NS,orf1a
 124,C,2940,T,P,892,L,2,NS,orf1a
-65,C,2942,T,L,893,L,1,S,orf1a
+64,C,2942,T,L,893,L,1,S,orf1a
 2,G,2944,A,L,893,L,3,S,orf1a
 4,G,2945,A,G,894,S,1,NS,orf1a
 2,G,2945,T,G,894,C,1,NS,orf1a
@@ -1662,7 +1655,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,3027,G,Y,921,C,2,NS,orf1a
 1,C,3033,T,S,923,F,2,NS,orf1a
 8,T,3034,C,S,923,S,3,S,orf1a
-36291,C,3037,T,F,924,F,3,S,orf1a
+36292,C,3037,T,F,924,F,3,S,orf1a
 1,T,3038,A,Y,925,N,1,NS,orf1a
 3,A,3039,G,Y,925,C,2,NS,orf1a
 7,C,3040,T,Y,925,Y,3,S,orf1a
@@ -1736,7 +1729,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,T,3142,C,P,959,P,3,S,orf1a
 1,T,3143,C,L,960,L,1,S,orf1a
 2,T,3144,C,L,960,S,2,NS,orf1a
-9,G,3145,T,L,960,F,3,NS,orf1a
 2,A,3148,G,E,961,E,3,S,orf1a
 1,G,3152,A,G,963,S,1,NS,orf1a
 1,G,3152,T,G,963,C,1,NS,orf1a
@@ -1836,7 +1828,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 6,G,3287,A,V,1008,I,1,NS,orf1a
 1,G,3287,T,V,1008,F,1,NS,orf1a
 1,T,3289,G,V,1008,V,3,S,orf1a
-7,T,3289,C,V,1008,V,3,S,orf1a
+8,T,3289,C,V,1008,V,3,S,orf1a
 2,C,3293,T,P,1010,S,1,NS,orf1a
 4,C,3294,T,P,1010,L,2,NS,orf1a
 1,C,3296,G,Q,1011,E,1,NS,orf1a
@@ -1937,7 +1929,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,A,3456,G,Y,1064,C,2,NS,orf1a
 1,A,3463,G,K,1066,K,3,S,orf1a
 3,C,3464,T,H,1067,Y,1,NS,orf1a
-8,T,3466,C,H,1067,H,3,S,orf1a
+9,T,3466,C,H,1067,H,3,S,orf1a
 2,G,3468,A,G,1068,E,2,NS,orf1a
 1,G,3470,A,G,1069,R,1,NS,orf1a
 2,G,3471,A,G,1069,E,2,NS,orf1a
@@ -1994,7 +1986,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,A,3558,G,K,1098,R,2,NS,orf1a
 3,A,3559,G,K,1098,K,3,S,orf1a
 2,G,3563,A,G,1100,S,1,NS,orf1a
-42,G,3564,T,G,1100,V,2,NS,orf1a
 1,G,3566,A,G,1101,S,1,NS,orf1a
 12,G,3567,A,G,1101,D,2,NS,orf1a
 9,A,3569,G,S,1102,G,1,NS,orf1a
@@ -2030,11 +2021,10 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,T,3628,C,N,1121,N,3,S,orf1a
 1,A,3632,G,N,1123,D,1,NS,orf1a
 1,A,3633,T,N,1123,I,2,NS,orf1a
-78,C,3634,T,N,1123,N,3,S,orf1a
+79,C,3634,T,N,1123,N,3,S,orf1a
 2,A,3635,G,K,1124,E,1,NS,orf1a
 1,G,3638,A,G,1125,S,1,NS,orf1a
 2,G,3638,T,G,1125,C,1,NS,orf1a
-1,G,3639,A,G,1125,D,2,NS,orf1a
 1,A,3643,C,E,1126,D,3,NS,orf1a
 2,A,3645,G,D,1127,G,2,NS,orf1a
 1,A,3652,G,Q,1129,Q,3,S,orf1a
@@ -2083,7 +2073,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,3741,A,I,1159,K,2,NS,orf1a
 1,T,3741,G,I,1159,R,2,NS,orf1a
 5,T,3741,C,I,1159,T,2,NS,orf1a
-4,A,3742,G,I,1159,M,3,NS,orf1a
+5,A,3742,G,I,1159,M,3,NS,orf1a
 25,C,3743,T,H,1160,Y,1,NS,orf1a
 1,A,3744,G,H,1160,R,2,NS,orf1a
 2,T,3745,C,H,1160,H,3,S,orf1a
@@ -2106,7 +2096,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 5,C,3775,T,R,1170,R,3,S,orf1a
 1,C,3777,A,T,1171,K,2,NS,orf1a
 1,C,3777,T,T,1171,I,2,NS,orf1a
-3,A,3778,G,T,1171,T,3,S,orf1a
 8,A,3780,G,N,1172,S,2,NS,orf1a
 3,T,3783,C,V,1173,A,2,NS,orf1a
 25,C,3784,T,V,1173,V,3,S,orf1a
@@ -2231,7 +2220,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 11,G,3994,T,L,1243,L,3,S,orf1a
 1,G,3995,A,E,1244,K,1,NS,orf1a
 1,A,4000,C,E,1245,D,3,NS,orf1a
-473,C,4002,T,T,1246,I,2,NS,orf1a
+472,C,4002,T,T,1246,I,2,NS,orf1a
 1,G,4006,A,K,1247,K,3,S,orf1a
 6,G,4006,T,K,1247,N,3,NS,orf1a
 1,T,4007,C,F,1248,L,1,NS,orf1a
@@ -2432,7 +2421,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 6,A,4386,G,N,1374,S,2,NS,orf1a
 3,T,4387,C,N,1374,N,3,S,orf1a
 9,T,4389,G,L,1375,W,2,NS,orf1a
-67,G,4390,T,L,1375,F,3,NS,orf1a
+66,G,4390,T,L,1375,F,3,NS,orf1a
 1,C,4391,A,R,1376,R,1,S,orf1a
 1,G,4392,A,R,1376,Q,2,NS,orf1a
 1,A,4393,T,R,1376,R,3,S,orf1a
@@ -2707,7 +2696,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 6,G,5008,A,T,1581,T,3,S,orf1a
 10,G,5008,T,T,1581,T,3,S,orf1a
 1,A,5010,G,Q,1582,R,2,NS,orf1a
-7,A,5011,C,Q,1582,H,3,NS,orf1a
 1,G,5012,A,V,1583,I,1,NS,orf1a
 2,G,5012,T,V,1583,F,1,NS,orf1a
 2,T,5013,C,V,1583,A,2,NS,orf1a
@@ -2733,7 +2721,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 6,C,5051,T,P,1596,S,1,NS,orf1a
 4,C,5052,T,P,1596,L,2,NS,orf1a
 2,A,5053,G,P,1596,P,3,S,orf1a
-13,C,5055,T,T,1597,I,2,NS,orf1a
+14,C,5055,T,T,1597,I,2,NS,orf1a
 3,G,5062,A,L,1599,L,3,S,orf1a
 48,G,5062,T,L,1599,F,3,NS,orf1a
 4,G,5063,A,D,1600,N,1,NS,orf1a
@@ -2826,7 +2814,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,5242,T,P,1659,P,3,S,orf1a
 1,G,5246,T,V,1661,F,1,NS,orf1a
 3,G,5253,A,G,1663,D,2,NS,orf1a
-2,A,5257,G,L,1664,L,3,S,orf1a
 2,C,5259,T,T,1665,I,2,NS,orf1a
 1,T,5263,C,S,1666,S,3,S,orf1a
 1,A,5264,G,I,1667,V,1,NS,orf1a
@@ -3033,9 +3020,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,5728,C,F,1821,F,3,S,orf1a
 58,C,5730,T,T,1822,I,2,NS,orf1a
 1,T,5731,C,T,1822,T,3,S,orf1a
-6,C,5736,T,A,1824,V,2,NS,orf1a
 2,A,5742,T,E,1826,V,2,NS,orf1a
-1,G,5743,T,E,1826,D,3,NS,orf1a
 1,A,5753,G,N,1830,D,1,NS,orf1a
 18,C,5758,T,Y,1831,Y,3,S,orf1a
 1,G,5763,A,C,1833,Y,2,NS,orf1a
@@ -3242,7 +3227,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,6250,T,N,1995,N,3,S,orf1a
 1,A,6252,G,N,1996,S,2,NS,orf1a
 1,G,6254,T,A,1997,S,1,NS,orf1a
-29,C,6255,T,A,1997,V,2,NS,orf1a
 9,C,6258,T,T,1998,I,2,NS,orf1a
 3,T,6262,C,N,1999,N,3,S,orf1a
 1,A,6264,G,K,2000,R,2,NS,orf1a
@@ -3270,11 +3254,11 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 13,A,6308,C,S,2015,R,1,NS,orf1a
 2,G,6309,A,S,2015,N,2,NS,orf1a
 2,G,6309,T,S,2015,I,2,NS,orf1a
-426,C,6310,A,S,2015,R,3,NS,orf1a
+429,C,6310,A,S,2015,R,3,NS,orf1a
 27,C,6310,T,S,2015,S,3,S,orf1a
 2,A,6311,G,T,2016,A,1,NS,orf1a
 1,A,6311,C,T,2016,P,1,NS,orf1a
-807,C,6312,A,T,2016,K,2,NS,orf1a
+810,C,6312,A,T,2016,K,2,NS,orf1a
 11,C,6312,T,T,2016,I,2,NS,orf1a
 2,C,6312,G,T,2016,R,2,NS,orf1a
 2,A,6313,G,T,2016,T,3,S,orf1a
@@ -3343,7 +3327,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,6393,G,D,2043,G,2,NS,orf1a
 3,A,6393,C,D,2043,A,2,NS,orf1a
 14,T,6394,C,D,2043,D,3,S,orf1a
-2,C,6395,T,L,2044,L,1,S,orf1a
+1,C,6395,T,L,2044,L,1,S,orf1a
 1,C,6395,G,L,2044,V,1,NS,orf1a
 3,A,6398,C,K,2045,Q,1,NS,orf1a
 3,A,6400,G,K,2045,K,3,S,orf1a
@@ -3579,7 +3563,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,T,6791,G,L,2176,V,1,NS,orf1a
 1,G,6793,A,L,2176,L,3,S,orf1a
 1,G,6793,T,L,2176,F,3,NS,orf1a
-1,C,6797,T,Q,2178,*,1,NS,orf1a
 2,C,6807,T,T,2181,I,2,NS,orf1a
 8,C,6813,T,T,2183,I,2,NS,orf1a
 4,T,6814,C,T,2183,T,3,S,orf1a
@@ -3609,7 +3592,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 5,G,6865,T,K,2200,N,3,NS,orf1a
 1,A,6867,G,N,2201,S,2,NS,orf1a
 2,T,6868,C,N,2201,N,3,S,orf1a
-5,A,6869,T,T,2202,S,1,NS,orf1a
 2,C,6870,T,T,2202,I,2,NS,orf1a
 1,T,6871,C,T,2202,T,3,S,orf1a
 1,G,6872,A,V,2203,I,1,NS,orf1a
@@ -3930,7 +3912,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,7672,A,V,2469,V,3,S,orf1a
 2,T,7672,C,V,2469,V,3,S,orf1a
 4,G,7675,A,A,2470,A,3,S,orf1a
-32,G,7675,T,A,2470,A,3,S,orf1a
+31,G,7675,T,A,2470,A,3,S,orf1a
 1,G,7677,T,R,2471,I,2,NS,orf1a
 1,A,7678,C,R,2471,S,3,NS,orf1a
 1,G,7684,A,L,2473,L,3,S,orf1a
@@ -4071,12 +4053,8 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,8017,A,A,2584,A,3,S,orf1a
 5,G,8017,T,A,2584,A,3,S,orf1a
 1,G,8018,A,E,2585,K,1,NS,orf1a
-23,T,8022,G,V,2586,G,2,NS,orf1a
-1,T,8022,C,V,2586,A,2,NS,orf1a
 1,G,8024,T,A,2587,S,1,NS,orf1a
 29,C,8025,T,A,2587,V,2,NS,orf1a
-4,A,8026,T,A,2587,A,3,S,orf1a
-16,A,8026,G,A,2587,A,3,S,orf1a
 2,G,8027,T,V,2588,F,1,NS,orf1a
 1,T,8029,A,V,2588,V,3,S,orf1a
 24,A,8031,G,K,2589,R,2,NS,orf1a
@@ -4406,10 +4384,9 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 13,C,8772,T,T,2836,I,2,NS,orf1a
 5,T,8777,C,F,2838,L,1,NS,orf1a
 1,A,8780,G,S,2839,G,1,NS,orf1a
-3636,C,8782,T,S,2839,S,3,S,orf1a
+3635,C,8782,T,S,2839,S,3,S,orf1a
 10,G,8785,A,Q,2840,Q,3,S,orf1a
 57,T,8788,C,R,2841,R,3,S,orf1a
-7,G,8790,T,G,2842,V,2,NS,orf1a
 1,G,8792,A,G,2843,S,1,NS,orf1a
 1,T,8797,C,S,2844,S,3,S,orf1a
 1,A,8799,G,Y,2845,C,2,NS,orf1a
@@ -4425,9 +4402,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 8,A,8821,G,P,2852,P,3,S,orf1a
 1,G,8824,A,L,2853,L,3,S,orf1a
 1,A,8825,G,I,2854,V,1,NS,orf1a
-1,T,8827,A,I,2854,I,3,S,orf1a
-2,G,8828,A,A,2855,T,1,NS,orf1a
-1,G,8828,T,A,2855,S,1,NS,orf1a
 1,G,8831,T,A,2856,S,1,NS,orf1a
 6,C,8832,T,A,2856,V,2,NS,orf1a
 1,A,8833,T,A,2856,A,3,S,orf1a
@@ -4474,7 +4448,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,8911,T,L,2882,F,3,NS,orf1a
 1,T,8914,G,H,2883,Q,3,NS,orf1a
 1,T,8916,G,F,2884,C,2,NS,orf1a
-110,C,8917,T,F,2884,F,3,S,orf1a
+108,C,8917,T,F,2884,F,3,S,orf1a
 1,A,8924,G,R,2887,G,1,NS,orf1a
 1,A,8926,T,R,2887,S,3,NS,orf1a
 1,G,8927,A,V,2888,I,1,NS,orf1a
@@ -4526,8 +4500,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,A,9034,G,K,2923,K,3,S,orf1a
 1,T,9037,G,D,2924,E,3,NS,orf1a
 6,T,9037,C,D,2924,D,3,S,orf1a
-1,C,9039,A,A,2925,D,2,NS,orf1a
-1,C,9039,T,A,2925,V,2,NS,orf1a
 2,C,9042,T,S,2926,F,2,NS,orf1a
 1,T,9043,C,S,2926,S,3,S,orf1a
 3,T,9046,C,G,2927,G,3,S,orf1a
@@ -4620,7 +4592,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 4,C,9214,T,Y,2983,Y,3,S,orf1a
 1,G,9219,A,R,2985,K,2,NS,orf1a
 4,G,9220,A,R,2985,R,3,S,orf1a
-228,C,9223,T,H,2986,H,3,S,orf1a
+227,C,9223,T,H,2986,H,3,S,orf1a
 1,G,9224,A,G,2987,S,1,NS,orf1a
 2,G,9224,T,G,2987,C,1,NS,orf1a
 2,C,9226,T,G,2987,G,3,S,orf1a
@@ -4674,7 +4646,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,9372,G,Q,3036,R,2,NS,orf1a
 1,T,9379,A,I,3038,I,3,S,orf1a
 1,G,9388,T,L,3041,F,3,NS,orf1a
-32,G,9389,A,D,3042,N,1,NS,orf1a
+31,G,9389,A,D,3042,N,1,NS,orf1a
 8,C,9391,T,D,3042,D,3,S,orf1a
 2,G,9398,A,A,3045,T,1,NS,orf1a
 1,T,9403,A,S,3046,S,3,S,orf1a
@@ -4713,7 +4685,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 69,C,9474,T,A,3070,V,2,NS,orf1a
 1,T,9475,C,A,3070,A,3,S,orf1a
 615,T,9477,A,F,3071,Y,2,NS,orf1a
-61,G,9479,T,G,3072,C,1,NS,orf1a
+60,G,9479,T,G,3072,C,1,NS,orf1a
 1,G,9480,T,G,3072,V,2,NS,orf1a
 4,A,9483,G,E,3073,G,2,NS,orf1a
 2,A,9483,C,E,3073,A,2,NS,orf1a
@@ -4961,7 +4933,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,10081,G,P,3272,P,3,S,orf1a
 2,G,10091,A,V,3276,I,1,NS,orf1a
 23,G,10096,A,E,3277,E,3,S,orf1a
-1470,G,10097,A,G,3278,S,1,NS,orf1a
+1469,G,10097,A,G,3278,S,1,NS,orf1a
 5,G,10098,A,G,3278,D,2,NS,orf1a
 7,G,10105,T,M,3280,I,3,NS,orf1a
 2,A,10108,G,V,3281,V,3,S,orf1a
@@ -4972,7 +4944,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,10123,C,G,3286,G,3,S,orf1a
 2,C,10125,T,T,3287,I,2,NS,orf1a
 2,C,10128,T,T,3288,I,2,NS,orf1a
-6,T,10129,C,T,3288,T,3,S,orf1a
 1,T,10135,C,L,3290,L,3,S,orf1a
 24,C,10138,T,N,3291,N,3,S,orf1a
 5,T,10150,C,L,3295,L,3,S,orf1a
@@ -5349,19 +5320,16 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,11068,C,S,3601,S,3,S,orf1a
 5,G,11071,T,L,3602,F,3,NS,orf1a
 6,G,11071,C,L,3602,F,3,NS,orf1a
-133,C,11074,T,F,3603,F,3,S,orf1a
 11,T,11075,C,F,3604,L,1,NS,orf1a
 1,T,11077,C,F,3604,F,3,S,orf1a
 1,T,11078,G,F,3605,V,1,NS,orf1a
-8,G,11083,A,L,3606,L,3,S,orf1a
-4659,G,11083,T,L,3606,F,3,NS,orf1a
 1,G,11087,T,E,3608,*,1,NS,orf1a
 1,A,11088,T,E,3608,V,2,NS,orf1a
 1,A,11089,G,E,3608,E,3,S,orf1a
 10,A,11090,T,N,3609,Y,1,NS,orf1a
 1,G,11093,A,A,3610,T,1,NS,orf1a
 1,G,11093,C,A,3610,P,1,NS,orf1a
-5,C,11094,T,A,3610,V,2,NS,orf1a
+4,C,11094,T,A,3610,V,2,NS,orf1a
 1,C,11095,A,A,3610,A,3,S,orf1a
 5,C,11095,T,A,3610,A,3,S,orf1a
 2,T,11098,C,F,3611,F,3,S,orf1a
@@ -5563,7 +5531,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,11529,T,A,3755,V,2,NS,orf1a
 7,C,11530,T,A,3755,A,3,S,orf1a
 6,G,11534,A,G,3757,S,1,NS,orf1a
-15,G,11535,T,G,3757,V,2,NS,orf1a
 20,A,11537,G,I,3758,V,1,NS,orf1a
 5,G,11540,T,V,3759,F,1,NS,orf1a
 1,T,11541,G,V,3759,G,2,NS,orf1a
@@ -6350,8 +6317,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,G,13397,T,G,4378,C,1,NS,orf1a
 1,A,13401,T,Y,4379,F,2,NS,orf1a
 1,A,13401,G,Y,4379,C,2,NS,orf1a
-2,T,13402,G,Y,4379,*,3,NS,orf1a
-1,T,13402,C,Y,4379,Y,3,S,orf1a
 1,G,13403,A,G,4380,S,1,NS,orf1a
 1,G,13410,A,S,4382,N,2,NS,orf1a
 1,G,13413,C,C,4383,S,2,NS,orf1a
@@ -6381,11 +6346,10 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,C,13446,T,A,4394,V,2,NS,orf1a
 3,C,13452,T,A,4396,V,2,NS,orf1a
 28,A,13456,G,Q,4397,Q,3,S,orf1a
-98,C,13458,T,S,4398,L,2,NS,orf1a
+97,C,13458,T,S,4398,L,2,NS,orf1a
 9,G,13459,T,S,4398,S,3,S,orf1a
 1,G,13471,A,V,2,I,1,NS,orf1b
 1,G,13475,T,C,3,F,2,NS,orf1b
-6,C,13476,T,C,3,C,3,S,orf1b
 1,A,13482,G,V,5,V,3,S,orf1b
 23,C,13487,T,A,7,V,2,NS,orf1b
 1,G,13489,A,A,8,T,1,NS,orf1b
@@ -6414,7 +6378,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,13531,A,V,22,I,1,NS,orf1b
 2,T,13532,C,V,22,A,2,NS,orf1b
 1,T,13534,C,Y,23,H,1,NS,orf1b
-507,C,13536,T,Y,23,Y,3,S,orf1b
+506,C,13536,T,Y,23,Y,3,S,orf1b
 1,T,13542,C,A,25,A,3,S,orf1b
 8,C,13548,T,D,27,D,3,S,orf1b
 1,C,13551,A,I,28,I,3,S,orf1b
@@ -6428,7 +6392,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,13569,A,A,34,A,3,S,orf1b
 1,G,13570,A,G,35,S,1,NS,orf1b
 1,G,13570,T,G,35,C,1,NS,orf1b
-11,G,13571,T,G,35,V,2,NS,orf1b
 1,T,13572,C,G,35,G,3,S,orf1b
 17,T,13575,C,F,36,F,3,S,orf1b
 14,G,13576,T,A,37,S,1,NS,orf1b
@@ -6496,7 +6459,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,G,13723,T,A,86,S,1,NS,orf1b
 5,C,13724,T,A,86,V,2,NS,orf1b
 3,T,13728,C,V,87,V,3,S,orf1b
-910,C,13730,T,A,88,V,2,NS,orf1b
+913,C,13730,T,A,88,V,2,NS,orf1b
 1,T,13737,C,H,90,H,3,S,orf1b
 8,C,13740,T,D,91,D,3,S,orf1b
 2,C,13743,T,F,92,F,3,S,orf1b
@@ -6544,7 +6507,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,13859,G,D,131,G,2,NS,orf1b
 1,A,13859,C,D,131,A,2,NS,orf1b
 36,C,13860,T,D,131,D,3,S,orf1b
-668,C,13862,T,T,132,I,2,NS,orf1b
+669,C,13862,T,T,132,I,2,NS,orf1b
 4,A,13863,C,T,132,T,3,S,orf1b
 1,A,13868,G,K,134,R,2,NS,orf1b
 2,A,13875,G,I,136,M,3,NS,orf1b
@@ -6631,7 +6594,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,14055,C,L,196,L,3,S,orf1b
 16,A,14061,G,L,198,L,3,S,orf1b
 1,T,14064,C,D,199,D,3,S,orf1b
-1,T,14067,C,N,200,N,3,S,orf1b
 29,T,14073,C,D,202,D,3,S,orf1b
 6,C,14074,A,L,203,I,1,NS,orf1b
 2,C,14074,T,L,203,F,1,NS,orf1b
@@ -6736,7 +6698,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 4,G,14274,A,E,269,E,3,S,orf1b
 3,G,14274,T,E,269,D,3,NS,orf1b
 1,G,14274,C,E,269,D,3,NS,orf1b
-11,G,14277,T,R,270,S,3,NS,orf1b
 1,A,14280,G,L,271,L,3,S,orf1b
 2,C,14284,A,L,273,I,1,NS,orf1b
 4,G,14290,T,D,275,Y,1,NS,orf1b
@@ -6781,7 +6742,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,C,14403,T,F,312,F,3,S,orf1b
 11,C,14407,T,P,314,S,1,NS,orf1b
 1,C,14408,A,P,314,H,2,NS,orf1b
-36255,C,14408,T,P,314,L,2,NS,orf1b
+36256,C,14408,T,P,314,L,2,NS,orf1b
 8,T,14409,C,P,314,P,3,S,orf1b
 3,C,14411,T,T,315,I,2,NS,orf1b
 1,A,14412,G,T,315,T,3,S,orf1b
@@ -6954,7 +6915,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 5,G,14792,T,S,442,I,2,NS,orf1b
 6,C,14793,T,S,442,S,3,S,orf1b
 1,C,14802,T,D,445,D,3,S,orf1b
-3322,C,14805,T,Y,446,Y,3,S,orf1b
+3321,C,14805,T,Y,446,Y,3,S,orf1b
 1,T,14808,C,Y,447,Y,3,S,orf1b
 1,C,14809,T,R,448,C,1,NS,orf1b
 2,T,14817,C,N,450,N,3,S,orf1b
@@ -7136,7 +7097,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,G,15313,T,A,616,S,1,NS,orf1b
 1,C,15319,T,P,618,S,1,NS,orf1b
 1,T,15321,C,P,618,P,3,S,orf1b
-1003,C,15324,T,N,619,N,3,S,orf1b
+1004,C,15324,T,N,619,N,3,S,orf1b
 1,A,15325,G,M,620,V,1,NS,orf1b
 2,G,15327,A,M,620,I,3,NS,orf1b
 28,G,15327,T,M,620,I,3,NS,orf1b
@@ -7151,7 +7112,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,15348,A,L,627,L,3,S,orf1b
 1,G,15349,C,V,628,L,1,NS,orf1b
 7,T,15351,G,V,628,V,3,S,orf1b
-22,C,15352,T,L,629,F,1,NS,orf1b
+23,C,15352,T,L,629,F,1,NS,orf1b
 1,T,15354,A,L,629,L,3,S,orf1b
 83,T,15354,C,L,629,L,3,S,orf1b
 1,G,15359,A,R,631,H,2,NS,orf1b
@@ -7164,7 +7125,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,15372,A,T,635,T,3,S,orf1b
 11,G,15372,T,T,635,T,3,S,orf1b
 1,A,15379,G,S,638,G,1,NS,orf1b
-66,G,15380,T,S,638,I,2,NS,orf1b
+67,G,15380,T,S,638,I,2,NS,orf1b
 4,G,15384,T,L,639,F,3,NS,orf1b
 2,C,15386,T,S,640,L,2,NS,orf1b
 1,G,15392,A,R,642,H,2,NS,orf1b
@@ -7182,7 +7143,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 15,A,15426,G,V,653,V,3,S,orf1b
 1,G,15429,A,L,654,L,3,S,orf1b
 5,T,15432,C,S,655,S,3,S,orf1b
-3,A,15435,G,E,656,E,3,S,orf1b
 2,T,15437,C,M,657,T,2,NS,orf1b
 93,G,15438,T,M,657,I,3,NS,orf1b
 8,G,15439,A,V,658,I,1,NS,orf1b
@@ -7366,7 +7326,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,T,15920,C,V,818,A,2,NS,orf1b
 1,G,15921,A,V,818,V,3,S,orf1b
 1,G,15921,T,V,818,V,3,S,orf1b
-5,T,15922,C,Y,819,H,1,NS,orf1b
 2,C,15924,T,Y,819,Y,3,S,orf1b
 4,C,15925,T,L,820,F,1,NS,orf1b
 17,T,15927,G,L,820,L,3,S,orf1b
@@ -7748,7 +7707,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,A,16881,G,T,1138,T,3,S,orf1b
 5,A,16882,G,T,1139,A,1,NS,orf1b
 1,C,16883,T,T,1139,I,2,NS,orf1b
-172,C,16887,T,Y,1140,Y,3,S,orf1b
 1,A,16890,G,K,1141,K,3,S,orf1b
 2,T,16891,C,L,1142,L,1,S,orf1b
 1,A,16895,G,N,1143,S,2,NS,orf1b
@@ -7774,7 +7732,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,A,16942,G,S,1159,G,1,NS,orf1b
 1,G,16943,A,S,1159,N,2,NS,orf1b
 6,G,16943,T,S,1159,I,2,NS,orf1b
-4,G,16945,A,A,1160,T,1,NS,orf1b
+5,G,16945,A,A,1160,T,1,NS,orf1b
 1,G,16945,T,A,1160,S,1,NS,orf1b
 4,C,16946,T,A,1160,V,2,NS,orf1b
 1,A,16947,G,A,1160,A,3,S,orf1b
@@ -7909,7 +7867,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,C,17243,T,A,1259,V,2,NS,orf1b
 1,C,17245,T,R,1260,C,1,NS,orf1b
 3,T,17247,G,R,1260,R,3,S,orf1b
-949,T,17247,C,R,1260,R,3,S,orf1b
+948,T,17247,C,R,1260,R,3,S,orf1b
 35,C,17249,T,A,1261,V,2,NS,orf1b
 1,C,17251,T,R,1262,C,1,NS,orf1b
 2,G,17252,A,R,1262,H,2,NS,orf1b
@@ -8125,7 +8083,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,17740,T,R,1425,C,1,NS,orf1b
 1,T,17742,C,R,1425,R,3,S,orf1b
 2,A,17744,G,N,1426,S,2,NS,orf1b
-1,C,17745,A,N,1426,K,3,NS,orf1b
+2,C,17745,A,N,1426,K,3,NS,orf1b
 19,C,17745,T,N,1426,N,3,S,orf1b
 9,C,17746,T,P,1427,S,1,NS,orf1b
 1849,C,17747,T,P,1427,L,2,NS,orf1b
@@ -8315,7 +8273,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,18169,A,G,1568,S,1,NS,orf1b
 1,G,18169,T,G,1568,C,1,NS,orf1b
 1,G,18170,A,G,1568,D,2,NS,orf1b
-1,G,18170,T,G,1568,V,2,NS,orf1b
 7,C,18171,A,G,1568,G,3,S,orf1b
 8,C,18171,T,G,1568,G,3,S,orf1b
 1,A,18172,T,I,1569,L,1,NS,orf1b
@@ -8804,7 +8761,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,19291,G,S,1942,G,1,NS,orf1b
 4,G,19292,T,S,1942,I,2,NS,orf1b
 1,T,19295,G,L,1943,W,2,NS,orf1b
-1,A,19298,T,Y,1944,F,2,NS,orf1b
 5,T,19299,G,Y,1944,*,3,NS,orf1b
 6,G,19300,T,V,1945,L,1,NS,orf1b
 67,A,19308,G,K,1947,K,3,S,orf1b
@@ -8870,20 +8826,10 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,T,19420,C,S,1985,P,1,NS,orf1b
 4,C,19421,T,S,1985,L,2,NS,orf1b
 2,A,19422,G,S,1985,S,3,S,orf1b
-2,A,19426,G,I,1987,V,1,NS,orf1b
+1,A,19426,G,I,1987,V,1,NS,orf1b
 3,G,19429,T,D,1988,Y,1,NS,orf1b
 1,A,19430,G,D,1988,G,2,NS,orf1b
-1,T,19431,C,D,1988,D,3,S,orf1b
-1,T,19432,A,Y,1989,N,1,NS,orf1b
-1,A,19433,T,Y,1989,F,2,NS,orf1b
-1,T,19434,C,Y,1989,Y,3,S,orf1b
-1,G,19435,A,V,1990,I,1,NS,orf1b
-1,A,19437,G,V,1990,V,3,S,orf1b
-1,C,19439,T,P,1991,L,2,NS,orf1b
-1,C,19441,A,L,1992,I,1,NS,orf1b
 1,C,19441,T,L,1992,L,1,S,orf1b
-1,A,19443,G,L,1992,L,3,S,orf1b
-1,A,19445,G,K,1993,R,2,NS,orf1b
 1,C,19448,T,S,1994,F,2,NS,orf1b
 1,T,19449,A,S,1994,S,3,S,orf1b
 1,T,19449,C,S,1994,S,3,S,orf1b
@@ -8905,7 +8851,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,19480,A,G,2005,S,1,NS,orf1b
 5,G,19480,T,G,2005,C,1,NS,orf1b
 3,G,19481,T,G,2005,V,2,NS,orf1b
-24,C,19484,T,A,2006,V,2,NS,orf1b
 1,T,19485,C,A,2006,A,3,S,orf1b
 98,C,19488,T,V,2007,V,3,S,orf1b
 1,A,19492,G,R,2009,G,1,NS,orf1b
@@ -8921,7 +8866,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 15,G,19518,T,L,2017,F,3,NS,orf1b
 1,T,19519,A,Y,2018,N,1,NS,orf1b
 4,T,19521,C,Y,2018,Y,3,S,orf1b
-620,C,19524,T,L,2019,L,3,S,orf1b
+623,C,19524,T,L,2019,L,3,S,orf1b
 5,G,19525,A,D,2020,N,1,NS,orf1b
 3,G,19525,T,D,2020,Y,1,NS,orf1b
 2,A,19526,G,D,2020,G,2,NS,orf1b
@@ -8932,13 +8877,11 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,T,19531,C,Y,2022,H,1,NS,orf1b
 4,T,19533,C,Y,2022,Y,3,S,orf1b
 1,C,19536,T,N,2023,N,3,S,orf1b
-1,T,19538,C,M,2024,T,2,NS,orf1b
 3,A,19540,G,M,2025,V,1,NS,orf1b
 1,A,19540,C,M,2025,L,1,NS,orf1b
 35,G,19542,T,M,2025,I,3,NS,orf1b
 8,A,19543,C,I,2026,L,1,NS,orf1b
 4,C,19547,T,S,2027,L,2,NS,orf1b
-1,A,19548,T,S,2027,S,3,S,orf1b
 1,G,19549,T,A,2028,S,1,NS,orf1b
 1,C,19550,A,A,2028,D,2,NS,orf1b
 4,C,19550,T,A,2028,V,2,NS,orf1b
@@ -8958,7 +8901,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 4,T,19590,C,Y,2041,Y,3,S,orf1b
 1,C,19593,T,N,2042,N,3,S,orf1b
 1,G,19599,T,W,2044,C,3,NS,orf1b
-19,C,19602,T,N,2045,N,3,S,orf1b
+18,C,19602,T,N,2045,N,3,S,orf1b
 1,C,19604,T,T,2046,I,2,NS,orf1b
 16,C,19610,T,T,2048,I,2,NS,orf1b
 1,T,19617,G,L,2050,L,3,S,orf1b
@@ -9200,7 +9143,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 6,T,20049,C,I,2194,I,3,S,orf1b
 11,C,20051,T,T,2195,I,2,NS,orf1b
 16,A,20055,G,E,2196,E,3,S,orf1b
-9,G,20056,A,G,2197,S,1,NS,orf1b
 1,A,20059,T,S,2198,C,1,NS,orf1b
 3,A,20059,G,S,2198,G,1,NS,orf1b
 6,G,20060,T,S,2198,I,2,NS,orf1b
@@ -9230,7 +9172,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,C,20115,T,V,2216,V,3,S,orf1b
 1,A,20116,G,T,2217,A,1,NS,orf1b
 1,C,20117,T,T,2217,I,2,NS,orf1b
-2,T,20123,C,I,2219,T,2,NS,orf1b
 4,G,20125,A,G,2220,R,1,NS,orf1b
 2,G,20126,A,G,2220,E,2,NS,orf1b
 2,A,20127,G,G,2220,G,3,S,orf1b
@@ -9239,7 +9180,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 25,C,20132,T,A,2222,V,2,NS,orf1b
 12,C,20133,T,A,2222,A,3,S,orf1b
 1,G,20134,A,V,2223,I,1,NS,orf1b
-104,G,20134,T,V,2223,L,1,NS,orf1b
+103,G,20134,T,V,2223,L,1,NS,orf1b
 2,A,20136,G,V,2223,V,3,S,orf1b
 5,A,20137,G,K,2224,E,1,NS,orf1b
 1,A,20138,G,K,2224,R,2,NS,orf1b
@@ -9503,7 +9444,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,A,20706,G,K,2413,K,3,S,orf1b
 1,A,20707,G,M,2414,V,1,NS,orf1b
 1,T,20708,C,M,2414,T,2,NS,orf1b
-13,G,20709,T,M,2414,I,3,NS,orf1b
+14,G,20709,T,M,2414,I,3,NS,orf1b
 1,G,20718,T,M,2417,I,3,NS,orf1b
 21,C,20719,T,L,2418,L,1,S,orf1b
 7,A,20724,T,L,2419,F,3,NS,orf1b
@@ -9730,7 +9671,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,21247,T,V,2594,L,1,NS,orf1b
 1,C,21254,T,A,2596,V,2,NS,orf1b
 4,G,21255,A,A,2596,A,3,S,orf1b
-57,G,21255,T,A,2596,A,3,S,orf1b
+58,G,21255,T,A,2596,A,3,S,orf1b
 30,G,21255,C,A,2596,A,3,S,orf1b
 1,A,21261,G,S,2598,S,3,S,orf1b
 1,C,21263,T,S,2599,F,2,NS,orf1b
@@ -9855,8 +9796,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,21543,A,L,2692,L,3,S,orf1b
 1,A,21547,G,N,2694,D,1,NS,orf1b
 8,C,21549,T,N,2694,N,3,S,orf1b
-21,A,21550,C,N,2695,H,1,NS,orf1b
-21,A,21551,T,N,2695,I,2,NS,orf1b
 1,C,21552,A,N,2695,K,3,NS,orf1b
 9,C,21552,T,N,2695,N,3,S,orf1b
 3,T,21568,A,F,2,L,3,NS,S
@@ -9865,8 +9804,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,21571,G,V,3,V,3,S,S
 1,T,21573,C,F,4,S,2,NS,S
 1,T,21574,C,F,4,F,3,S,S
-1,C,21575,A,L,5,I,1,NS,S
-355,C,21575,T,L,5,F,1,NS,S
 1,T,21577,G,L,5,L,3,S,S
 2,G,21578,A,V,6,I,1,NS,S
 32,G,21578,T,V,6,F,1,NS,S
@@ -10084,7 +10021,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,A,21875,G,I,105,V,1,NS,S
 3,A,21875,C,I,105,L,1,NS,S
 1,T,21880,C,F,106,F,3,S,S
-1,G,21881,T,G,107,C,1,NS,S
 1,T,21883,C,G,107,G,3,S,S
 1,C,21888,T,T,109,I,2,NS,S
 1,C,21888,G,T,109,S,2,NS,S
@@ -10127,7 +10063,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,21968,G,C,136,G,1,NS,S
 1,T,21968,C,C,136,R,1,NS,S
 3,T,21973,C,N,137,N,3,S,S
-14,G,21974,T,D,138,Y,1,NS,S
+13,G,21974,T,D,138,Y,1,NS,S
 27,G,21974,C,D,138,H,1,NS,S
 11,T,21976,C,D,138,D,3,S,S
 1,A,21979,T,P,139,P,3,S,S
@@ -10369,8 +10305,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,G,22331,A,G,257,S,1,NS,S
 6,G,22332,A,G,257,D,2,NS,S
 2,T,22333,C,G,257,G,3,S,S
-1,G,22335,A,W,258,*,2,NS,S
-20,G,22335,T,W,258,L,2,NS,S
 1,G,22336,T,W,258,C,3,NS,S
 2,G,22340,T,A,260,S,1,NS,S
 2,C,22341,T,A,260,V,2,NS,S
@@ -10443,7 +10377,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,22473,G,K,304,R,2,NS,S
 1,A,22474,G,K,304,K,3,S,S
 9,C,22477,T,S,305,S,3,S,S
-13,C,22480,T,F,306,F,3,S,S
+12,C,22480,T,F,306,F,3,S,S
 4,A,22481,T,T,307,S,1,NS,S
 2,A,22481,G,T,307,A,1,NS,S
 1,C,22482,A,T,307,N,2,NS,S
@@ -10463,7 +10397,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,22510,C,S,316,S,3,S,S
 2,C,22513,T,N,317,N,3,S,S
 1,T,22514,C,F,318,L,1,NS,S
-1,T,22516,C,F,318,F,3,S,S
 1,G,22520,T,V,320,F,1,NS,S
 1,C,22523,G,Q,321,E,1,NS,S
 1,A,22524,T,Q,321,L,2,NS,S
@@ -10516,8 +10449,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,22642,T,N,360,N,3,S,S
 1,T,22648,A,V,362,V,3,S,S
 4,T,22657,C,Y,365,Y,3,S,S
-2,G,22661,A,V,367,I,1,NS,S
-32,G,22661,T,V,367,F,1,NS,S
 2,C,22663,A,V,367,V,3,S,S
 1,A,22666,G,L,368,L,3,S,S
 8,A,22671,G,N,370,S,2,NS,S
@@ -10567,8 +10498,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,22800,T,G,413,V,2,NS,S
 9,G,22801,T,G,413,G,3,S,S
 1,G,22801,C,G,413,G,3,S,S
-3,C,22802,A,Q,414,K,1,NS,S
-1,C,22802,T,Q,414,*,1,NS,S
 4,A,22803,G,Q,414,R,2,NS,S
 1,A,22803,C,Q,414,P,2,NS,S
 1,A,22805,T,T,415,S,1,NS,S
@@ -10817,7 +10746,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 50,G,23401,A,Q,613,Q,3,S,S
 21,G,23401,T,Q,613,H,3,NS,S
 5,G,23402,A,D,614,N,1,NS,S
-36346,A,23403,G,D,614,G,2,NS,S
+36347,A,23403,G,D,614,G,2,NS,S
 2,G,23405,A,V,615,I,1,NS,S
 4,G,23405,T,V,615,F,1,NS,S
 2,G,23405,C,V,615,L,1,NS,S
@@ -10962,7 +10891,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,23633,C,S,691,P,1,NS,S
 2,C,23634,T,S,691,F,2,NS,S
 1,C,23635,A,S,691,S,3,S,S
-35,C,23635,T,S,691,S,3,S,S
+36,C,23635,T,S,691,S,3,S,S
 2,C,23635,G,S,691,S,3,S,S
 1,A,23636,T,I,692,F,1,NS,S
 28,C,23638,T,I,692,I,3,S,S
@@ -11004,7 +10933,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,23726,A,V,722,I,1,NS,S
 1,T,23728,C,V,722,V,3,S,S
 1,C,23730,T,T,723,I,2,NS,S
-1502,C,23731,T,T,723,T,3,S,S
+1501,C,23731,T,T,723,T,3,S,S
 1,A,23732,G,T,724,A,1,NS,S
 1,C,23733,T,T,724,I,2,NS,S
 1,A,23734,T,T,724,T,3,S,S
@@ -11085,7 +11014,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,23926,G,I,788,M,3,NS,S
 2,T,23926,C,I,788,I,3,S,S
 1,T,23927,G,Y,789,D,1,NS,S
-776,C,23929,T,Y,789,Y,3,S,S
+779,C,23929,T,Y,789,Y,3,S,S
 1,A,23932,T,K,790,N,3,NS,S
 1,A,23932,G,K,790,K,3,S,S
 2,A,23933,G,T,791,A,1,NS,S
@@ -11149,7 +11078,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,G,24040,A,V,826,V,3,S,S
 2,G,24040,T,V,826,V,3,S,S
 2,C,24042,T,T,827,I,2,NS,S
-61,G,24047,A,A,829,T,1,NS,S
+60,G,24047,A,A,829,T,1,NS,S
 1,G,24050,C,D,830,H,1,NS,S
 1,A,24051,G,D,830,G,2,NS,S
 2,A,24051,C,D,830,A,2,NS,S
@@ -11317,9 +11246,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 5,A,24385,G,T,941,T,3,S,S
 12,G,24386,T,A,942,S,1,NS,S
 3,A,24388,T,A,942,A,3,S,S
-5,A,24389,C,S,943,R,1,NS,S
-11,G,24390,T,S,943,I,2,NS,S
-6,G,24390,C,S,943,T,2,NS,S
 1,C,24395,A,L,945,I,1,NS,S
 1,T,24397,A,L,945,L,3,S,S
 1,A,24400,G,G,946,G,3,S,S
@@ -11531,7 +11457,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 9,G,24928,T,V,1122,V,3,S,S
 1,T,24929,C,S,1123,P,1,NS,S
 1,G,24932,T,G,1124,C,1,NS,S
-51,G,24933,T,G,1124,V,2,NS,S
 1,G,24941,T,D,1127,Y,1,NS,S
 1,A,24942,G,D,1127,G,2,NS,S
 1,G,24944,T,V,1128,F,1,NS,S
@@ -11770,7 +11695,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,25375,C,H,1271,H,3,S,S
 2,C,25378,T,Y,1272,Y,3,S,S
 3,C,25380,T,T,1273,I,2,NS,S
-8,A,25381,C,T,1273,T,3,S,S
 11,T,25382,C,*,1274,Q,1,NS,S
 2,A,25383,G,*,1274,*,2,S,S
 2,T,25394,C,M,1,T,2,NS,orf3a
@@ -11793,7 +11717,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 8,C,25416,T,F,8,F,3,S,orf3a
 7,C,25418,A,T,9,K,2,NS,orf3a
 2,C,25418,T,T,9,I,2,NS,orf3a
-2,G,25423,T,G,11,*,1,NS,orf3a
+1,G,25423,T,G,11,*,1,NS,orf3a
 3,G,25424,T,G,11,V,2,NS,orf3a
 5,C,25427,T,T,12,I,2,NS,orf3a
 2,G,25429,A,V,13,I,1,NS,orf3a
@@ -11818,7 +11742,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 11,G,25445,A,G,18,D,2,NS,orf3a
 11,G,25445,T,G,18,V,2,NS,orf3a
 1,G,25447,A,E,19,K,1,NS,orf3a
-1,G,25447,T,E,19,*,1,NS,orf3a
 2,G,25447,C,E,19,Q,1,NS,orf3a
 7,A,25448,G,E,19,G,2,NS,orf3a
 4,A,25448,C,E,19,A,2,NS,orf3a
@@ -11862,7 +11785,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 4,T,25488,A,T,32,T,3,S,orf3a
 21,G,25489,T,A,33,S,1,NS,orf3a
 1,C,25490,A,A,33,E,2,NS,orf3a
-1,A,25491,C,A,33,A,3,S,orf3a
 7,A,25492,G,T,34,A,1,NS,orf3a
 3,C,25493,T,T,34,M,2,NS,orf3a
 1,G,25494,A,T,34,T,3,S,orf3a
@@ -11885,7 +11807,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,25510,C,S,40,P,1,NS,orf3a
 35,C,25511,T,S,40,L,2,NS,orf3a
 5,C,25513,A,L,41,I,1,NS,orf3a
-18,C,25513,T,L,41,F,1,NS,orf3a
+19,C,25513,T,L,41,F,1,NS,orf3a
 1,T,25514,C,L,41,P,2,NS,orf3a
 3,C,25516,T,P,42,S,1,NS,orf3a
 9,C,25517,T,P,42,L,2,NS,orf3a
@@ -11937,7 +11859,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,25562,T,Q,57,L,2,NS,orf3a
 5,A,25562,G,Q,57,R,2,NS,orf3a
 5,G,25563,A,Q,57,Q,3,S,orf3a
-11861,G,25563,T,Q,57,H,3,NS,orf3a
+11864,G,25563,T,Q,57,H,3,NS,orf3a
 15,G,25563,C,Q,57,H,3,NS,orf3a
 2,A,25564,G,S,58,G,1,NS,orf3a
 30,G,25565,A,S,58,N,2,NS,orf3a
@@ -12025,7 +11947,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,25656,G,V,88,V,3,S,orf3a
 2,A,25657,G,T,89,A,1,NS,orf3a
 1,C,25658,A,T,89,K,2,NS,orf3a
-20,C,25658,T,T,89,I,2,NS,orf3a
+19,C,25658,T,T,89,I,2,NS,orf3a
 1,G,25660,A,V,90,I,1,NS,orf3a
 11,G,25660,T,V,90,F,1,NS,orf3a
 3,T,25663,A,Y,91,N,1,NS,orf3a
@@ -12349,7 +12271,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 7,G,26143,A,G,251,S,1,NS,orf3a
 2,G,26143,T,G,251,C,1,NS,orf3a
 5,G,26144,A,G,251,D,2,NS,orf3a
-2854,G,26144,T,G,251,V,2,NS,orf3a
+2853,G,26144,T,G,251,V,2,NS,orf3a
 6,T,26146,C,S,252,P,1,NS,orf3a
 8,T,26149,C,S,253,P,1,NS,orf3a
 1,C,26150,A,S,253,Y,2,NS,orf3a
@@ -12447,7 +12369,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,26307,A,L,21,L,3,S,E
 1,G,26308,T,A,22,S,1,NS,E
 1,T,26312,G,F,23,C,2,NS,E
-27,C,26313,T,F,23,F,3,S,E
+26,C,26313,T,F,23,F,3,S,E
 9,G,26314,A,V,24,M,1,NS,E
 2,G,26314,T,V,24,L,1,NS,E
 1,G,26314,C,V,24,L,1,NS,E
@@ -12565,7 +12487,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 12,A,26528,T,A,2,A,3,S,M
 1,A,26528,G,A,2,A,3,S,M
 18,G,26529,T,D,3,Y,1,NS,M
-386,A,26530,G,D,3,G,2,NS,M
+385,A,26530,G,D,3,G,2,NS,M
 1,A,26530,C,D,3,A,2,NS,M
 3,T,26532,G,S,4,A,1,NS,M
 4,C,26533,T,S,4,F,2,NS,M
@@ -12578,7 +12500,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,26544,G,I,8,V,1,NS,M
 2,T,26545,G,I,8,S,2,NS,M
 5,T,26545,C,I,8,T,2,NS,M
-17,C,26549,T,T,9,T,3,S,M
 2,G,26550,A,V,10,I,1,NS,M
 5,T,26551,C,V,10,A,2,NS,M
 1,T,26552,G,V,10,V,3,S,M
@@ -12802,24 +12723,13 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,27011,T,D,163,D,3,S,M
 1,C,27012,A,L,164,M,1,NS,M
 5,C,27012,T,L,164,L,1,S,M
-1,T,27013,A,L,164,Q,2,NS,M
 4,G,27014,T,L,164,L,3,S,M
-1,C,27015,T,P,165,S,1,NS,M
-1,C,27016,G,P,165,R,2,NS,M
-1,T,27017,G,P,165,P,3,S,M
-1,A,27019,G,K,166,R,2,NS,M
-4,A,27020,G,K,166,K,3,S,M
+3,A,27020,G,K,166,K,3,S,M
 1,G,27021,A,E,167,K,1,NS,M
 6,G,27021,C,E,167,Q,1,NS,M
-1,A,27022,C,E,167,A,2,NS,M
-1,A,27023,T,E,167,D,3,NS,M
 1,A,27023,G,E,167,E,3,S,M
 1,A,27024,G,I,168,V,1,NS,M
-1,T,27025,G,I,168,S,2,NS,M
-1,C,27026,A,I,168,I,3,S,M
 2,C,27026,T,I,168,I,3,S,M
-1,A,27027,G,T,169,A,1,NS,M
-1,C,27028,A,T,169,N,2,NS,M
 1,G,27030,A,V,170,I,1,NS,M
 3,T,27032,C,V,170,V,3,S,M
 2,A,27038,T,T,172,T,3,S,M
@@ -12855,7 +12765,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,27098,C,G,192,G,3,S,M
 1,C,27103,T,A,194,V,2,NS,M
 1,A,27107,G,A,195,A,3,S,M
-23,C,27110,T,Y,196,Y,3,S,M
+22,C,27110,T,Y,196,Y,3,S,M
 3,G,27112,A,S,197,N,2,NS,M
 2,G,27112,C,S,197,T,2,NS,M
 1,C,27116,T,R,198,R,3,S,M
@@ -13013,7 +12923,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 21,G,27382,C,D,61,H,1,NS,orf6
 18,A,27383,T,D,61,V,2,NS,orf6
 1,A,27383,G,D,61,G,2,NS,orf6
-173,T,27384,C,D,61,D,3,S,orf6
+172,T,27384,C,D,61,D,3,S,orf6
 1,G,27396,A,M,1,I,3,NS,orf7a
 2,G,27396,T,M,1,I,3,NS,orf7a
 1,A,27397,G,K,2,E,1,NS,orf7a
@@ -13075,7 +12985,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,27482,C,L,30,P,2,NS,orf7a
 2,T,27483,C,L,30,L,3,S,orf7a
 5,T,27484,C,L,31,L,1,S,orf7a
-1,A,27486,T,L,31,F,3,NS,orf7a
 1,A,27486,G,L,31,L,3,S,orf7a
 2,A,27488,T,K,32,I,2,NS,orf7a
 1,A,27488,G,K,32,R,2,NS,orf7a
@@ -13108,8 +13017,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,27517,T,G,42,C,1,NS,orf7a
 1,G,27518,T,G,42,V,2,NS,orf7a
 2,C,27519,T,G,42,G,3,S,orf7a
-1,A,27520,G,N,43,D,1,NS,orf7a
-2,A,27521,G,N,43,S,2,NS,orf7a
+1,A,27521,G,N,43,S,2,NS,orf7a
 1,T,27522,C,N,43,N,3,S,orf7a
 3,C,27524,T,S,44,L,2,NS,orf7a
 14,A,27525,G,S,44,S,3,S,orf7a
@@ -13171,35 +13079,27 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,27602,A,G,70,D,2,NS,orf7a
 1,C,27603,A,G,70,G,3,S,orf7a
 4,C,27603,T,G,70,G,3,S,orf7a
-5,G,27604,A,V,71,I,1,NS,orf7a
+4,G,27604,A,V,71,I,1,NS,orf7a
 4,G,27604,T,V,71,L,1,NS,orf7a
-1,T,27605,C,V,71,A,2,NS,orf7a
-1,A,27606,C,V,71,V,3,S,orf7a
-1,A,27607,T,K,72,*,1,NS,orf7a
-1,C,27610,A,H,73,N,1,NS,orf7a
 13,C,27610,T,H,73,Y,1,NS,orf7a
-1,A,27611,C,H,73,P,2,NS,orf7a
-2,C,27612,T,H,73,H,3,S,orf7a
+1,C,27612,T,H,73,H,3,S,orf7a
 1,C,27612,G,H,73,Q,3,NS,orf7a
 1,G,27613,A,V,74,I,1,NS,orf7a
 10,G,27613,T,V,74,F,1,NS,orf7a
-2,C,27615,T,V,74,V,3,S,orf7a
+1,C,27615,T,V,74,V,3,S,orf7a
 1,C,27615,G,V,74,V,3,S,orf7a
-2,T,27616,C,Y,75,H,1,NS,orf7a
+1,T,27616,C,Y,75,H,1,NS,orf7a
 2,A,27617,G,Y,75,C,2,NS,orf7a
 6,T,27618,C,Y,75,Y,3,S,orf7a
 1,C,27619,T,Q,76,*,1,NS,orf7a
 3,A,27620,G,Q,76,R,2,NS,orf7a
 2,G,27621,T,Q,76,H,3,NS,orf7a
-1,T,27622,A,L,77,I,1,NS,orf7a
-1,T,27623,C,L,77,S,2,NS,orf7a
-2,C,27625,A,R,78,S,1,NS,orf7a
+1,C,27625,A,R,78,S,1,NS,orf7a
 4,C,27625,T,R,78,C,1,NS,orf7a
 2,C,27625,G,R,78,G,1,NS,orf7a
 2,G,27626,A,R,78,H,2,NS,orf7a
 3,G,27626,T,R,78,L,2,NS,orf7a
 5,G,27626,C,R,78,P,2,NS,orf7a
-1,T,27627,A,R,78,R,3,S,orf7a
 1,G,27628,T,A,79,S,1,NS,orf7a
 3,C,27629,T,A,79,V,2,NS,orf7a
 61,C,27630,T,A,79,A,3,S,orf7a
@@ -13246,7 +13146,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 110,A,27669,G,E,92,E,3,S,orf7a
 1,A,27669,C,E,92,D,3,NS,orf7a
 13,G,27670,T,V,93,F,1,NS,orf7a
-3,G,27670,C,V,93,L,1,NS,orf7a
+2,G,27670,C,V,93,L,1,NS,orf7a
 1,T,27672,A,V,93,V,3,S,orf7a
 3,T,27672,C,V,93,V,3,S,orf7a
 4,C,27673,A,Q,94,K,1,NS,orf7a
@@ -13344,14 +13244,12 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 9,T,27776,G,I,7,M,3,NS,orf7b
 9,G,27777,A,D,8,N,1,NS,orf7b
 2,G,27777,T,D,8,Y,1,NS,orf7b
-1,A,27784,T,Y,10,F,2,NS,orf7b
-1,A,27784,G,Y,10,C,2,NS,orf7b
 4,T,27785,C,Y,10,Y,3,S,orf7b
-28,G,27788,T,L,11,F,3,NS,orf7b
+29,G,27788,T,L,11,F,3,NS,orf7b
 5,C,27791,T,C,12,C,3,S,orf7b
 1,A,27797,G,L,14,L,3,S,orf7b
 1,G,27798,A,A,15,T,1,NS,orf7b
-9,G,27798,T,A,15,S,1,NS,orf7b
+10,G,27798,T,A,15,S,1,NS,orf7b
 2,C,27799,T,A,15,V,2,NS,orf7b
 37,C,27800,T,A,15,A,3,S,orf7b
 10,T,27801,C,F,16,L,1,NS,orf7b
@@ -13618,7 +13516,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,T,28137,C,S,82,P,1,NS,orf8
 4,C,28139,A,S,82,S,3,S,orf8
 8,C,28139,T,S,82,S,3,S,orf8
-3680,T,28144,C,L,84,S,2,NS,orf8
+3679,T,28144,C,L,84,S,2,NS,orf8
 1,A,28145,C,L,84,F,3,NS,orf8
 2,C,28146,T,P,85,S,1,NS,orf8
 1,T,28151,C,F,86,F,3,S,orf8
@@ -13690,9 +13588,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 5,T,28251,G,F,120,V,1,NS,orf8
 3,T,28251,C,F,120,L,1,NS,orf8
 1,T,28252,C,F,120,S,2,NS,orf8
-11,C,28253,A,F,120,L,3,NS,orf8
-97,C,28253,T,F,120,F,3,S,orf8
-2,C,28253,G,F,120,L,3,NS,orf8
 2,A,28254,T,I,121,F,1,NS,orf8
 2,A,28254,G,I,121,V,1,NS,orf8
 9,A,28254,C,I,121,L,1,NS,orf8
@@ -13733,7 +13628,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 27,C,28308,G,A,12,G,2,NS,N
 3,C,28310,A,P,13,T,1,NS,N
 14,C,28310,T,P,13,S,1,NS,N
-927,C,28311,T,P,13,L,2,NS,N
+930,C,28311,T,P,13,L,2,NS,N
 4,C,28311,G,P,13,R,2,NS,N
 11,C,28312,T,P,13,P,3,S,N
 4,C,28313,T,R,14,C,1,NS,N
@@ -13932,7 +13827,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,28621,T,G,116,G,3,S,N
 1,C,28622,T,P,117,S,1,NS,N
 2,A,28627,G,E,118,E,3,S,N
-33,G,28628,T,A,119,S,1,NS,N
+32,G,28628,T,A,119,S,1,NS,N
 4,G,28628,C,A,119,P,1,NS,N
 31,C,28629,T,A,119,V,2,NS,N
 3,T,28630,G,A,119,A,3,S,N
@@ -14019,7 +13914,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,A,28752,C,Q,160,P,2,NS,N
 13,C,28754,T,L,161,F,1,NS,N
 2,C,28757,T,P,162,S,1,NS,N
-16,C,28758,T,P,162,L,2,NS,N
+18,C,28758,T,P,162,L,2,NS,N
 42,T,28759,C,P,162,P,3,S,N
 4,C,28760,A,Q,163,K,1,NS,N
 1,A,28761,G,Q,163,R,2,NS,N
@@ -14081,7 +13976,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 3,C,28831,T,S,186,S,3,S,N
 31,C,28833,T,S,187,L,2,NS,N
 20,T,28835,C,S,188,P,1,NS,N
-669,C,28836,T,S,188,L,2,NS,N
+671,C,28836,T,S,188,L,2,NS,N
 2,A,28837,G,S,188,S,3,S,N
 1,G,28839,A,R,189,H,2,NS,N
 1,G,28839,T,R,189,L,2,NS,N
@@ -14134,12 +14029,12 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 252,G,28878,A,S,202,N,2,NS,N
 4,G,28878,T,S,202,I,2,NS,N
 38,G,28878,C,S,202,T,2,NS,N
-14123,G,28881,A,R,203,K,2,NS,N
+14119,G,28881,A,R,203,K,2,NS,N
 20,G,28881,T,R,203,M,2,NS,N
-14102,G,28882,A,R,203,R,3,S,N
+14098,G,28882,A,R,203,R,3,S,N
 19,G,28882,T,R,203,S,3,NS,N
 5,G,28883,A,G,204,R,1,NS,N
-14101,G,28883,C,G,204,R,1,NS,N
+14097,G,28883,C,G,204,R,1,NS,N
 7,G,28884,T,G,204,V,2,NS,N
 1,G,28884,C,G,204,A,2,NS,N
 2,A,28885,G,G,204,G,3,S,N
@@ -14229,8 +14124,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 4,G,28980,T,G,236,V,2,NS,N
 4,T,28981,C,G,236,G,3,S,N
 1,A,28984,C,K,237,N,3,NS,N
-7,G,28985,A,G,238,S,1,NS,N
-29,G,28985,T,G,238,C,1,NS,N
 1,G,28986,T,G,238,V,2,NS,N
 1,A,28989,T,Q,239,L,2,NS,N
 1,A,28990,G,Q,239,Q,3,S,N
@@ -14269,7 +14162,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 23,G,29032,A,E,253,E,3,S,N
 2,G,29033,T,A,254,S,1,NS,N
 1,T,29036,G,S,255,A,1,NS,N
-5,C,29037,T,S,255,F,2,NS,N
 1,G,29041,T,K,256,N,3,NS,N
 4,G,29044,A,K,257,K,3,S,N
 3,G,29050,A,R,259,R,3,S,N
@@ -14375,7 +14267,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 1,G,29224,T,M,317,I,3,NS,N
 9,G,29227,A,S,318,S,3,S,N
 14,G,29227,T,S,318,S,3,S,N
-4,G,29229,A,R,319,H,2,NS,N
+5,G,29229,A,R,319,H,2,NS,N
 1,C,29230,T,R,319,R,3,S,N
 2,A,29231,G,I,320,V,1,NS,N
 1,G,29234,C,G,321,R,1,NS,N
@@ -14410,7 +14302,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,29268,T,T,332,I,2,NS,N
 2,C,29269,T,T,332,T,3,S,N
 1,A,29271,T,Y,333,F,2,NS,N
-41,C,29272,T,Y,333,Y,3,S,N
+40,C,29272,T,Y,333,Y,3,S,N
 18,C,29274,T,T,334,I,2,NS,N
 1,A,29275,G,T,334,T,3,S,N
 1,T,29278,C,G,335,G,3,S,N
@@ -14531,8 +14423,6 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 30,C,29421,T,P,383,L,2,NS,N
 4,G,29422,A,P,383,P,3,S,N
 80,G,29422,T,P,383,P,3,S,N
-4,G,29425,A,Q,384,Q,3,S,N
-21,G,29425,T,Q,384,H,3,NS,N
 1,A,29426,G,R,385,G,1,NS,N
 2,G,29427,A,R,385,K,2,NS,N
 5,G,29427,T,R,385,I,2,NS,N
@@ -14654,7 +14544,7 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 2,C,29606,T,L,17,F,1,NS,orf10
 81,T,29607,C,L,17,P,2,NS,orf10
 1,T,29609,C,L,18,L,1,S,orf10
-111,C,29614,T,C,19,C,3,S,orf10
+112,C,29614,T,C,19,C,3,S,orf10
 1,A,29615,T,R,20,*,1,NS,orf10
 2,G,29616,A,R,20,K,2,NS,orf10
 31,G,29616,T,R,20,I,2,NS,orf10
@@ -14696,6 +14586,5 @@ snp_count,ref,bp,snp,ref_AA,codon_number,var_AA,pos_in_codon,NS_S,ORF
 65,C,29668,T,L,37,L,3,S,orf10
 5,C,29670,T,T,38,I,2,NS,orf10
 25,T,29672,C,*,39,Q,1,NS,orf10
-1,A,29673,C,*,39,S,2,NS,orf10
 1,G,29674,A,*,39,*,3,S,orf10
-5,G,29674,T,*,39,Y,3,NS,orf10
+4,G,29674,T,*,39,Y,3,NS,orf10

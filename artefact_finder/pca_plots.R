@@ -5,7 +5,7 @@ df <- read.csv("artefact_finder/encoded_homoplasies_040820.tsv",
                stringsAsFactors = F,
                check.names = F)
 
-meta <- read.csv("filtered-homoplasic-sites-table_alt2_vs_alt1_0.2.csv")
+meta <- read.csv("Demaio_filtered-homoplasic-sites-table_alt2_vs_alt1_0.2.csv")
 meta <- meta$bp
 
 pos <- df$bp

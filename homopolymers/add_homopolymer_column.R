@@ -14,10 +14,10 @@ for (i in seq(nrow(homo))) {
 
 length(homo_vec)
 
-filt <- read.csv("filtered-homoplasic-sites-table_alt2_vs_alt1_0.2.csv", stringsAsFactors = F, check.names = F)
+filt <- read.csv("Demaio_filtered-homoplasic-sites-table_alt2_vs_alt1_0.2.csv", stringsAsFactors = F, check.names = F)
 filt$homopolymer <- 0
 filt$homopolymer[filt$bp %in% homo_vec] <- 1
-write.csv(filt, "homopolymers/filtered-homoplasic-sites-table_040820.homopolymer.csv", row.names = F)
+write.csv(filt, "homopolymers/Demaio_filtered-homoplasic-sites-table_040820.homopolymer.csv", row.names = F)
 
 # Count number of homopolymers
 nrow(filt) # No. of filtered homoplasies
